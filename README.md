@@ -174,7 +174,7 @@ Covid-19, pandemic world wide can be checked easily by controlling our physical 
 
 6.	Blibliography 
 
- 1.	Unicef web blog. (2020, March). https://www.unicef.org/indonesia/id/laporan/panduan-sekolah-untuk-pencegahan-coronavirus 
- 2.	Google.com, Covid-19 Prevention. https://www.google.com/search?q=covid+19+prevention&oq=covid&aqs=chrome.1.69i57j69i59l2j0i131i433i512l2j69i60l3.2794j0j7&sourceid=chrome&ie=UTF-8 
- 3.	Medium.com, Rishi Prasana, Face Mask Detection using OpenCV and Keras (2020, May 26). https://medium.com/@riship2009/face-mask-detection-using-opencv-and-keras-11ea8f565677 
- 4.	YouTube, nicholas renotte, Build a Face Detector in 20 Minutes with Watson Studio (2020, August 13). https://www.youtube.com/watch?v=T9KfYaS9hwQ 
+ -	Unicef web blog. (2020, March). https://www.unicef.org/indonesia/id/laporan/panduan-sekolah-untuk-pencegahan-coronavirus 
+ -	Google.com, Covid-19 Prevention. https://www.google.com/search?q=covid+19+prevention&oq=covid&aqs=chrome.1.69i57j69i59l2j0i131i433i512l2j69i60l3.2794j0j7&sourceid=chrome&ie=UTF-8 
+ -	Medium.com, Rishi Prasana, Face Mask Detection using OpenCV and Keras (2020, May 26). https://medium.com/@riship2009/face-mask-detection-using-opencv-and-keras-11ea8f565677 
+ -	YouTube, nicholas renotte, Build a Face Detector in 20 Minutes with Watson Studio (2020, August 13). https://www.youtube.com/watch?v=T9KfYaS9hwQ 
