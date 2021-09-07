@@ -1,4 +1,4 @@
-# RealTimeFaceMaskDetection
+# Real Time Face Mask Detection
 AI Final Project - Computer Vision
 
 # Hai, Selamat Datang di Project Real Time Face Mask Detection
@@ -32,7 +32,7 @@ pip install tensorflow
 
 ## Cara Penggunaan
 
-**Face Mask Detection**
+1. **Face Mask Detection**
     - Pada fitur ini akan membuka window kamera dengan Face Mask Detection
     - Sebelum itu pada markdown Detection tinggal perintah *shift + enter*
     - Project ini sudah di training model jadi langsung aja di execute (di 2 baris akhir)
