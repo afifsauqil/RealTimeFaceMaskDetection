@@ -3,7 +3,7 @@ AI Final Project - Computer Vision
 
 # Hai, Selamat Datang di Project Real Time Face Mask Detection
 
-Repositori ini adalah sebuah final project IPM [Intel Prakarsa Muda] saya memakai OpenCV library dan menggunakan Algoritma Deep Learning di Jupyter Notebook dengan bahasa Python.
+Repositori ini adalah sebuah final project IPM [Intel Prakarsa Muda] saya memakai OpenCV library dan menggunakan Algoritma CNN (Convolutional Neural Network) Deep Learning di Jupyter Notebook dengan bahasa Python.
 
 ---
 
