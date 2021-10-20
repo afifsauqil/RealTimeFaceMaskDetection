@@ -9,13 +9,13 @@ Repositori ini adalah sebuah final project IPM [Intel Prakarsa Muda] saya memaka
 
 ## Fitur
 
--   Memberikan tanda kotak pada wajah yang menggunakan masker dan tidak memakai masker (Face Mask Detection)
+-   Memberikan penanda dan label sekitar area wajah yang menggunakan masker dan tidak memakai masker (Face Mask Detection)
 
 ---
 
 ## Install
 
-1. **Clone Repositori**
+1. **Clone Repository**
   
   diutamakan memakai app anaconda karena lebih mudah
 ```bash
@@ -35,4 +35,10 @@ pip install opencv-python keras os numpy tensorflow
     - Sebelum itu pada markdown Detection tinggal perintah *shift + enter*
     - Project ini sudah di training model jadi langsung aja di execute (di 2 baris akhir)
     - apabila masih kebingungan silahkan baca file berformat .pdf
+---
+
+## Blibliography
+  
+  [https://medium.com/@riship2009/face-mask-detection-using-opencv-and-keras-11ea8f565677](https://medium.com/@riship2009/face-mask-detection-using-opencv-and-keras-11ea8f565677)
+  
 ---
