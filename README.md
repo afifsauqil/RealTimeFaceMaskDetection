@@ -22,8 +22,11 @@ Repositori ini adalah sebuah final project IPM [Intel Prakarsa Muda] saya memaka
 // download folder terlebih dahulu
 git clone https://github.com/afifsauqil/RealTimeFaceMaskDetection.git
 cd RealTimeFaceMaskDetection
-// install library-librarynya
-pip install opencv-python keras os numpy tensorflow
+// install library-librarynya (buka cmd pada anaconda)
+pip install opencv-python 
+pip install keras
+pip install numpy 
+pip install tensorflow
 ```
 
 ---
