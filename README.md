@@ -36,7 +36,7 @@ pip install tensorflow
 1. **How to Use**
     - Pada fitur ini akan membuka window kamera dengan Face Mask Detection
     - Sebelum itu pada markdown Detection tinggal perintah *shift + enter*
-    - Project ini sudah di training model jadi langsung aja di execute (di 2 baris akhir)
+    - Project ini sudah di training model jadi langsung aja di execute (di 3 baris akhir atau pada bagian part mask detection)
     - apabila masih kebingungan silahkan baca file berformat .pdf
 ---
 
